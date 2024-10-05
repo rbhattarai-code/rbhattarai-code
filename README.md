@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rbhattarai-code
+- 👋 Hi, I’m Rohil
 - 👀 I’m interested in data analytics,data manipulation
 - 🌱 I’m currently learning SQL,Python,Tableau
 - 📫 How to reach me bhattarairohil7@gmail.com
